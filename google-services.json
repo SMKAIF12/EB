@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1009666978949",
+    "project_id": "eb-billing-system",
+    "storage_bucket": "eb-billing-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009666978949:android:99c67d6e04f1b341ab65ec",
+        "android_client_info": {
+          "package_name": "com.sri.EB_billing_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009666978949-lpi63acdcl4l7vbolk2vr5d0l0tror8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sri.EB_billing_system",
+            "certificate_hash": "41bccf285ea8000d382b5ac3a13eb4fc1be168b1"
+          }
+        },
+        {
+          "client_id": "1009666978949-j888tnvl33p2amneol5q1dgk8a8dh9je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjf1ci_x60PXbbUHuQ0EEA11HFmE4T-Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009666978949-j888tnvl33p2amneol5q1dgk8a8dh9je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
